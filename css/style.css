@@ -111,9 +111,6 @@
  .previous-button{
    background-image: url("../images/icon-prev.svg");
  }
- .testimonial2{
-   display: none;
- }
  @media only screen and (min-width:768px){
    .testimonial-container{
      background-size: 40%;
